@@ -2,7 +2,7 @@
 automated API tests using REST Assurred, JUnit Jupiter API and Jackson Databind (linkedin course)
 
 Resources:
-<br>Web Page: [LinkedIn Learning](https://www.linkedin.com/learning/)
+<br>Web Page: [LinkedIn Learning](https://www.linkedin.com/learning/java-automated-api-testing-with-rest-assured/gain-fast-feedback-with-automated-api-testing)
 <br>Course: "Java: Automated API Testing with REST Assured" by Angie Jones
 
 <br> The aim of project is to practice API test automation for basic requests (POST, GET, PUT, DELETE) and 
